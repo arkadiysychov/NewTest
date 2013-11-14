@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b485da-4b12-4527-9efb-8d157fb698e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/srcSS/victor.xhtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CMISViewer.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="62b485da-4b12-4527-9efb-8d157fb698e4" time="1384436254931" ignored="false" />
+    <file path="/Dummy.txt" changelist="62b485da-4b12-4527-9efb-8d157fb698e4" time="1384436311158" ignored="false" />
     <file path="/pom.xml" changelist="62b485da-4b12-4527-9efb-8d157fb698e4" time="1384424906463" ignored="false" />
     <file path="/Ark.xhtml" changelist="62b485da-4b12-4527-9efb-8d157fb698e4" time="1384424744742" ignored="false" />
     <file path="$PROJECT_DIR$/../project/Ark.xhtml" changelist="62b485da-4b12-4527-9efb-8d157fb698e4" time="1384427530306" ignored="false" />
@@ -93,7 +92,7 @@
       <file leaf-file-name="victor.xhtml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/srcSS/victor.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="23" selection-start="311" selection-end="311" vertical-scroll-proportion="0.3747495">
+            <state line="6" column="17" selection-start="269" selection-end="269" vertical-scroll-proportion="0.20440882">
               <folding />
             </state>
           </provider>
@@ -627,7 +626,11 @@
       <created>1384436257678</created>
       <updated>1384436257678</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New files">
+      <created>1384436321141</created>
+      <updated>1384436321141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -774,7 +777,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/srcSS/victor.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="311" selection-end="311" vertical-scroll-proportion="0.3747495">
+        <state line="6" column="17" selection-start="269" selection-end="269" vertical-scroll-proportion="0.20440882">
           <folding />
         </state>
       </provider>
