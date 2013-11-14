@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArkMod/ArkMod.iml" filepath="$PROJECT_DIR$/ArkMod/ArkMod.iml" />
       <module fileurl="file://$PROJECT_DIR$/CMISViewer.iml" filepath="$PROJECT_DIR$/CMISViewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebModule/WebModule.iml" filepath="$PROJECT_DIR$/WebModule/WebModule.iml" />
     </modules>
