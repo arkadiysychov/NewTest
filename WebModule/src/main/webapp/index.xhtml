@@ -16,5 +16,17 @@
 	<p:editor value="#{editor.value}" />
 	</h:form>
 
+    <uib:gridContainer>
+        <uib:gridRow fluid="true">
+            <uib:gridColumn column="4">
+                <h:form id="calendar-form">
+                    <p:outputLabel for="calendar" value="calendar" style="display: none;"/>
+                    <p:calendar title="calendar" id="calendar" pattern="MM/dd/yyyy" showOn="button" />
+                    <p:watermark id="watermark" for="calendar" value="MM\\DD\\YYYY"/>
+                </h:form>
+            </uib:gridColumn>
+        </uib:gridRow>
+    </uib:gridContainer>
+
 </h:body>
 </html>
