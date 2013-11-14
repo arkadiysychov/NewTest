@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="viewer">
-    <output-path>$PROJECT_DIR$/out/artifacts/viewer</output-path>
-    <root id="root" />
-  </artifact>
-</component>
